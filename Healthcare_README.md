@@ -4,6 +4,7 @@ I leveraged a U.S Health Dataset to perform descriptive analytics, comparing 10 
 
 ![Case 1 pix](https://dl.boxcloud.com/api/2.0/internal_files/1880642382570/versions/2074136087370/representations/png_paged_2048x2048/content/1.png?access_token=1!8nJKWzLIPezakAzNI2EpO8v2ZataeoaZP8-AIsiXoNTUpmDSaptgJcaiVN9DvMmdVqCynDtwSDfOYO3pKC-m-XvxbsIzEyPbB6fyB4OV4k8j0-3kei_0BC30hCCI3Ny9voImw-HOBASyp4EpfCzkvMFAf2fR3_iYXzGyb0D2iaeKkQVUIsIVS50DdSgoM-JccXXmNONgRZQ0BkoU1PIu5sO29jZ8cPLNAZ3tF57t8lYAHwCtId2qSDuy03yHbSzZuSDnMSC__mTileT6AfDNwT2D6PBqwBA74Y6BsWkcBxT32iS57O8EfPBTBrNUIWeiXEtTcEmrxZoGMGWAN2_9ExMUEeK8Cmcfx4FYkU1CsORDqyW7kwzpdlHqgvfZ_fwgsv4n28LfligbYX-dPeSBGYIudmJ9rORR_0JJcdWlg46gNepyIAGlA7Cw1vnKT-Ja178qIBUhScb2WRjyNvk9nYQ83Hd5I6BOVjj-a_lYD6fcqcYzs9wxj2JvsTDDJCe-dPF9sERIGjXdalWRnlvJ5_REdY-F3MnCw8oROaBm4QZ6rZ9WZJo_Su-UE9MaefEyofJ97zajzbpaXXg_9H0eCDNVV5d1JS7i5QZnPTaigMBk-ux8p_kvAgqFrpUEp028ZGE45Adzloxr8sl_lZwZeXBVnFiQxFZNHwiPWa-KpQKGm3XkGDijZxwBdgkVePD3M5H0VAvYr8JBAqI5v75MBj7WxIfuSOUYVQ1yEDXMjm-aYP58n213YzmpdfjW&box_client_name=box-content-preview&box_client_version=3.7.0?fit=scale)
 
+
 ## 📕 Project Summary
 This dashboard provides a comprehensive analysis of hospital operations, patient demographics, and medical trends using the U.S. Health Dataset. By exploring dimensions such as gender, age, medical conditions, insurance coverage, and admission patterns, several actionable insights were uncovered, a few of which are:
 - Hospital Utilization: Certain hospitals (like Houston Methodist and Johns Hopkins Hospital) consistently receive the highest patient volume, particularly for urgent and elective admissions, suggesting a need for better capacity planning and resource allocation.
@@ -25,4 +26,20 @@ These insights can support decision-making in hospital management, resource allo
 I documented every step taken along the way indicating the need for every measure, hiererchy, stratification, and even charts to substantially track every progress and milestone along the way.
 
 
+## 💥Dashboard Pages
+### Summary page
+This page provdes an easy and quick exploration of the healthcare analysis.
 
+![GitPost_1](https://github.com/user-attachments/assets/cc3ae33c-585e-4d2c-8325-9c7bf8158aff)
+
+
+### Hospital Page
+This page helps to explore the KPIs of each individual hospital.
+
+![GitPost_1_2](https://github.com/user-attachments/assets/e46c8292-d5fd-4316-8afe-2bf44cb67e39)
+
+
+### Medical Condition Page
+This page displays the insights of the various medical conditions.
+
+![GitPost_2](https://github.com/user-attachments/assets/373618f1-b98f-4ad4-8090-80bfa0b1e663)
