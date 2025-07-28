@@ -2,7 +2,7 @@
 
 I leveraged a U.S Health Dataset to perform descriptive analytics, comparing 10 hospitals across patient demographics, prevalence of major health conditions, medical patterns and treatment costs versus insurance providers.
 
-![Case 1 pix](https://dl.boxcloud.com/api/2.0/internal_files/1880642382570/versions/2074136087370/representations/png_paged_2048x2048/content/1.png?access_token=1!8nJKWzLIPezakAzNI2EpO8v2ZataeoaZP8-AIsiXoNTUpmDSaptgJcaiVN9DvMmdVqCynDtwSDfOYO3pKC-m-XvxbsIzEyPbB6fyB4OV4k8j0-3kei_0BC30hCCI3Ny9voImw-HOBASyp4EpfCzkvMFAf2fR3_iYXzGyb0D2iaeKkQVUIsIVS50DdSgoM-JccXXmNONgRZQ0BkoU1PIu5sO29jZ8cPLNAZ3tF57t8lYAHwCtId2qSDuy03yHbSzZuSDnMSC__mTileT6AfDNwT2D6PBqwBA74Y6BsWkcBxT32iS57O8EfPBTBrNUIWeiXEtTcEmrxZoGMGWAN2_9ExMUEeK8Cmcfx4FYkU1CsORDqyW7kwzpdlHqgvfZ_fwgsv4n28LfligbYX-dPeSBGYIudmJ9rORR_0JJcdWlg46gNepyIAGlA7Cw1vnKT-Ja178qIBUhScb2WRjyNvk9nYQ83Hd5I6BOVjj-a_lYD6fcqcYzs9wxj2JvsTDDJCe-dPF9sERIGjXdalWRnlvJ5_REdY-F3MnCw8oROaBm4QZ6rZ9WZJo_Su-UE9MaefEyofJ97zajzbpaXXg_9H0eCDNVV5d1JS7i5QZnPTaigMBk-ux8p_kvAgqFrpUEp028ZGE45Adzloxr8sl_lZwZeXBVnFiQxFZNHwiPWa-KpQKGm3XkGDijZxwBdgkVePD3M5H0VAvYr8JBAqI5v75MBj7WxIfuSOUYVQ1yEDXMjm-aYP58n213YzmpdfjW&box_client_name=box-content-preview&box_client_version=3.7.0?fit=scale)
+![Case 1 pix](https://t3.ftcdn.net/jpg/02/81/21/10/360_F_281211036_24KPea5poawt4mXYlEjRUwsCgomtjoVc.jpg?fit=scale)
 
 
 ## 📕 Project Summary
