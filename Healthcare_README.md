@@ -19,7 +19,7 @@ These insights can support decision-making in hospital management, resource allo
 - Data Exploration: I surfed through the data to understand what its about. While doing that, I observed for inconsistencies (dirts) in the dataset too. I also created my list of possible insights-to-explore and trends-to-uncover in the data (and sketched what I like to call my abstract/imaginary dashboard.) ;)
 - Data Cleaning: Upon checking for blanks, inconsistent data types, non-standardized data types, I discovered that the dataset was fairly clean. However, I did remove irrelevant columns and features not needed for my analysis.
 - Data Segmentation (Derived Variables): I stratified columns like 'Age' into groups for clarity. I also grouped the difference between the two dates ('Admission date' and 'Discharge date') into three (3) groups. This was done to avoid data ambiguity and redundancy.
-- Data Modeling: USing DAX, I created measures (and tables where necessary especially for explicit sorting orders), columns and hierarchies to aid my statistical logics, KPIs and aggregations. This is to make slicing and dicing of the data across filters dynamic, smooth and more insightful.
+- Data Modeling: Using DAX, I created measures (and tables where necessary especially for explicit sorting orders), columns and hierarchies to aid my statistical logics, KPIs and aggregations. This is to make slicing and dicing of the data across filters dynamic, smooth and more insightful.
 - Data Analysis & Visualizations: I inserted multiple visuals (bar, column & doughnut charts, matrix tables, slicers and text boxes.
 
 ## 🗒️ Note
